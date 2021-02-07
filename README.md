@@ -1,4 +1,4 @@
-#New Bad IP
+#NewBadIP
 
 If you want to use this please do the following:
 
